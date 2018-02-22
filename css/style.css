@@ -1,0 +1,39 @@
+* { margin:auto; }
+
+body { 
+	background-color: #DDD;
+	color: #333;
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+}
+
+#mapid {
+	margin: auto;
+	height: 600px;
+}
+
+#head {
+	padding: 10px;
+	font-size:20px;
+}
+
+#form {
+	padding: 20px;
+	border: 2px solid #333;
+	width: 55em;
+	display: flex;
+}
+
+input {
+	text-decoration: none;
+}
+
+h3, h1 { text-align: center; }
+
+#upd {
+	text-decoration: none;
+	border: none;
+	background-color: #444;
+	padding: 5px;
+	color: #DDD;
+}
